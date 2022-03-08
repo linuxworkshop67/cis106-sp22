@@ -1,40 +1,49 @@
 ---
 name: student name
-class: cis106
+class: cis 106
 semester: spring 22
 ---
 # Deliverable 1
 
-## Introduction 
-Lorem cupidatat culpa magna aliquip aliquip. In sint fugiat aute ipsum consectetur amet eiusmod non nisi. Minim est laboris quis elit velit quis veniam nulla. Deserunt mollit sit adipisicing exercitation proident voluptate adipisicing excepteur ex ea deserunt quis anim. Consectetur sint non dolor enim aliquip ad ex tempor Lorem consectetur et exercitation irure reprehenderit. Officia officia ipsum cupidatat officia magna reprehenderit sint irure nulla ea. Minim ea eu exercitation amet eiusmod magna nisi exercitation do tempor duis reprehenderit.
+<hr>
 
-## Project Requirements
-* Computer capable of virtualization
-* A hypervisor (Virtualbox)
-* Ubuntu Installation ISO file/Disk 
+## Introduction/Project Description
+Consectetur do ipsum ex velit. Ut eiusmod laborum ex elit eu anim qui ad enim veniam. Reprehenderit eiusmod fugiat commodo mollit amet fugiat commodo ex voluptate aute fugiat irure incididunt. Quis exercitation ea labore qui sit pariatur consequat reprehenderit do.
 
+## Project hardware and software requirements
+* Voluptate esse magna dolore reprehenderit ad proident.
+* Ex voluptate tempor labore ullamco esse occaecat 
+* eprehenderit incididunt ea pariatur anim in eiusmod sit.
+* Ullamco ullamco exercitation laboris laboris veniam consectetur magna.
+    
 ## What is Linux?
-Fugiat reprehenderit ad tempor irure laboris fugiat mollit commodo amet qui ullamco duis cupidatat. Deserunt excepteur cupidatat anim consequat in sit commodo aliquip quis dolore. Anim eu proident proident Lorem adipisicing anim duis ullamco. Ex consectetur dolor ad ut. Tempor aute enim pariatur laboris ea tempor labore culpa velit pariatur. Laboris sunt deserunt quis est irure officia commodo ipsum ea.
+Ipsum esse enim labore elit nostrud commodo irure ex. Ea in do sunt duis commodo esse. Esse tempor aute eu ea consectetur eu veniam. Excepteur enim tempor esse commodo ullamco magna nisi ullamco. Laboris dolore reprehenderit commodo do. Magna adipisicing et cillum eiusmod anim sint. Qui occaecat esse ipsum anim ipsum officia incididunt proident magna incididunt tempor dolore.
 
 ### Short history of linux
-Voluptate ea qui dolore cupidatat anim cupidatat qui aliquip. Nostrud mollit aliqua quis duis consequat duis incididunt elit fugiat qui. Tempor nulla amet cillum elit dolore anim tempor culpa pariatur reprehenderit exercitation duis. Nostrud ex reprehenderit enim aliquip ipsum deserunt anim et ad. Labore reprehenderit esse adipisicing occaecat voluptate elit eiusmod magna adipisicing fugiat eu eu. Nulla cillum et id sunt occaecat.
+Quis sint culpa est deserunt sit mollit incididunt. Lorem non ullamco occaecat reprehenderit enim reprehenderit ut. Nisi occaecat irure ipsum et officia. Sint magna enim esse esse tempor sunt non sit est ullamco dolor et.
 
-Fugiat anim amet consequat et irure ad aliqua. Aliqua et cupidatat excepteur magna ullamco. Pariatur incididunt anim fugiat ea non officia minim. Commodo quis proident elit ad non ea sint exercitation minim est labore fugiat labore. Quis deserunt adipisicing veniam fugiat laborum nulla ea anim id deserunt nulla ea incididunt sint. Laborum voluptate et eu nostrud occaecat eiusmod velit fugiat et non.
+Do dolore velit aute magna labore magna. Exercitation laborum ullamco excepteur nisi Lorem duis amet commodo culpa irure fugiat laboris. In cillum ea laboris consectetur cillum excepteur dolor. Nostrud proident est est esse amet aliqua ea aute elit.
 
-Enim culpa voluptate labore eiusmod aliqua. Est elit voluptate nostrud Lorem mollit tempor amet. Veniam aliquip cillum ut nulla. Non est aute ex fugiat cillum fugiat deserunt incididunt nisi. Exercitation sunt id nulla tempor magna velit laborum aliquip. Proident ea do laborum minim sunt veniam esse cillum laborum incididunt magna non voluptate.
+Minim culpa occaecat ipsum elit ea sunt cupidatat. Deserunt occaecat sint aliqua officia eiusmod Lorem proident cillum aliqua sunt ut cupidatat incididunt. Elit ea esse laboris magna magna.
 
 ### Linux distribution
-* **Slackaware** <br>
-Ullamco incididunt incididunt voluptate mollit ex. Laborum excepteur veniam excepteur mollit id consectetur non occaecat do qui do officia est adipisicing. Culpa Lorem veniam ullamco magna commodo proident ut adipisicing. Labore laboris nulla commodo pariatur ea aliqua proident mollit aliqua labore aute quis cupidatat. Sunt Lorem consequat aliqua incididunt et nostrud incididunt laborum cillum aliqua sint.
+* **Slackaware**: Exercitation labore cupidatat nostrud velit eu incididunt cupidatat duis ad cillum. Mollit exercitation pariatur irure adipisicing cupidatat. Id dolore aliqua pariatur aute labore sit. Officia nisi ipsum fugiat duis nisi ea. Mollit ad et velit ipsum dolor.
+* **Debian:** Mollit velit qui magna esse commodo aliqua sit consectetur ea pariatur. Anim proident non esse nulla enim ut. Mollit aute ea cupidatat enim ipsum occaecat aute nostrud sit exercitation sint veniam eiusmod. Eiusmod ad minim enim magna in sint. In magna aliqua laboris Lorem consequat non est ipsum enim duis.
 
-* **Debian** <br>
-Culpa deserunt eu anim veniam deserunt duis cupidatat consequat laborum deserunt consectetur non. Irure reprehenderit quis cupidatat laborum velit tempor proident laborum enim. Officia ipsum amet in cillum nisi aliqua fugiat reprehenderit aliquip duis ad. Reprehenderit voluptate quis laborum ea aute sit eiusmod ullamco esse. Non in aute ullamco occaecat.
-  * **Ubuntu:** Dolor in ea exercitation aliqua voluptate fugiat velit irure est ad non exercitation est consectetur. In ut dolor incididunt cupidatat dolor culpa do. Ut nostrud ex cillum aliqua. Et cillum anim voluptate Lorem sunt voluptate. Amet enim aliqua ut ex pariatur sunt amet.
-  * **Kali Linux:** Reprehenderit tempor ullamco exercitation magna veniam. Deserunt aliquip eiusmod in ea tempor consequat ad esse sit enim magna. Occaecat laboris fugiat enim adipisicing ea adipisicing labore in eiusmod ipsum exercitation eiusmod non pariatur. Irure nostrud qui reprehenderit laboris aliquip aliquip anim magna enim. Consectetur cupidatat ullamco eiusmod proident cillum eu deserunt. Sint reprehenderit excepteur ut in. Ullamco cupidatat elit dolore labore dolore laborum ullamco tempor.
-* **Red Hat Enterprise Linux** <br>
-Sint qui cupidatat nulla qui nulla. Pariatur aliqua adipisicing et occaecat occaecat. Minim ut elit minim sint. Magna eu enim cupidatat non eu anim aute tempor non occaecat voluptate labore. Est nostrud non laborum consequat mollit eu nulla ea aliquip officia et. Aliquip proident id sint velit dolore eiusmod reprehenderit nulla velit non incididunt. Commodo cillum pariatur nulla velit.
-  * **Fedora:**Ullamco irure nulla magna nulla nisi pariatur dolor. Non adipisicing nostrud fugiat aliqua eu veniam ipsum dolor. Aute minim veniam incididunt aute Lorem reprehenderit. Minim aliqua esse aute excepteur est elit ad culpa nostrud exercitation ut enim magna consequat.
+> **Debian Based Linux Distrubutions**
+> Ubuntu: Exercitation minim commodo Lorem esse laboris et enim ut excepteur non sit commodo. In eiusmod aliqua esse do non culpa veniam. Ea aliqua incididunt fugiat sunt ex.
+> Kali Linux: Labore sit id nulla minim et sunt sit. Veniam voluptate aute deserunt cupidatat voluptate consequat do cupidatat aliquip sit sit. Irure ut veniam consectetur ex in ipsum ullamco ut. Sit officia consequat labore ullamco aute esse reprehenderit id nulla qui sint exercitation eiusmod ipsum. Labore ad enim incididunt pariatur minim sint deserunt ad enim cupidatat. Incididunt fugiat occaecat veniam magna fugiat et. Adipisicing sint proident amet elit labore reprehenderit consequat.
+
+
+* Red Hat Enterprise Linux: Aute mollit anim labore Lorem voluptate consectetur. Voluptate id minim pariatur ex ipsum culpa voluptate cupidatat aute. Labore voluptate irure consequat in duis ut. Deserunt ea culpa consequat non ullamco deserunt proident. Est non sint id culpa in cupidatat.
+> Fedora: Sunt veniam reprehenderit non ullamco adipisicing et elit Lorem ex elit aliquip et fugiat. Do excepteur consectetur quis proident tempor. Anim nostrud tempor quis officia nulla exercitation consequat aliqua aute laborum ut amet ex. Consectetur dolore sit ad eu eiusmod. In proident Lorem sint sint reprehenderit laboris deserunt excepteur ullamco ea. Ullamco excepteur ut elit duis eiusmod officia voluptate. Id anim ex ipsum aute.
 
 ## Open Source VS Closed Source
 
+### Advantages of open source
+
+### Advantages of closed source
+
 ## The Free software movement
+
+## Sources 
