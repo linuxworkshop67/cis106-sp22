@@ -1,5 +1,5 @@
 ## What is Virtualization?
-![virtualization](https://images0.cnblogs.com/blog/635909/201406/202235187547080.jpg)<br>
+![virtualization](vbox.png)<br>
 Tempor ipsum cupidatat quis occaecat dolor qui amet est. Est dolore minim ipsum aliquip cupidatat do officia. Est labore veniam duis anim elit amet esse aliqua dolor amet irure quis quis ea. Ea laborum velit consectetur cillum reprehenderit tempor amet ex voluptate cillum ex aliquip. Laborum do eiusmod quis dolore incididunt incididunt aliqua eu. Consectetur dolore voluptate eu cupidatat nisi ea eu et dolor.
 
 ### Types of virtualization
