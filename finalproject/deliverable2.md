@@ -62,6 +62,14 @@ sudo apt autoremove
 
 ### Navigating the filesystem
 
+
 ### Managing files and directories
-
-
+#### mkdir
+* Description: used for creatind directories. 
+* Usage: `mkdir + option + new directory path`
+* Examples:
+  * Create a directory in the present working directory
+    * `mkdir Wallpaper/`
+  * Create a parent directory and child directory
+    * `mkdir Wallpaper/cars/new`
+![mkdir](mkdir.gif)<br>
