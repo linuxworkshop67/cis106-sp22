@@ -17,12 +17,45 @@ Sit ipsum nisi pariatur pariatur consectetur elit. Sunt aliqua cillum non magna 
 
 
 ## VirtualBox
+![virtualbox logo](https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png)<br>
+
+Cillum aliquip consequat minim occaecat reprehenderit reprehenderit dolor nulla duis tempor sunt officia ut. Consectetur in cillum cupidatat exercitation non irure dolore elit sit cupidatat pariatur dolore esse. Est reprehenderit elit incididunt labore incididunt minim ut.
+
+### How to install virtualbox in windows 10
+1) Download installer from [Virtualbox.org](https://www.virtualbox.org/).
+2) Start installer.
+3) Once Installer is done, install extension pack
+
+### How to create a virtual machine
+1. Step 1
+2. Step 2
+3. Step 3
+4. Step 4
+5. Step 5
 
 ## Installing Ubuntu in Virtualbox
+1. Step 1: Anim magna elit magna laborum id esse exercitation et ex duis.
+2. Step 2: Veniam esse do ad voluptate quis culpa laborum ullamco.
+3. Step 3: Culpa commodo duis laboris enim occaecat esse nisi labore aliqua nostrud ea.
 
 ### Updating Ubuntu
+![update](update.png)<br>
+
+Consequat exercitation voluptate sint ea occaecat est aute laborum. Proident ex non aute ad id eiusmod amet minim consectetur. Laborum officia est duis consequat nisi nostrud mollit nisi ex ea dolore magna. Consequat duis tempor exercitation nisi magna.
 
 ### Installing Software in Ubuntu
+* Installation command examples
+* Searching for software
+* Deleting software
+  * `sudo apt remove + package name`
+    * Example:
+      * `sudo apt remove vlc` will remove the vlc package.
+  * To remove and purge a package use:
+```
+sudo apt remove vlc
+sudo apt purge vlc
+sudo apt autoremove
+```
 
 
 ## Basic linux commands 
